@@ -1,4 +1,4 @@
-**Analysis of COVID-19 Perceptions and Vaccine Uptake**
+**Visualisation of COVID-19 Perceptions and Vaccine Uptake**
 ## **View Interactive Analysis [HERE](https://africanobyamugisha.github.io/Behavioral-COVID19-Analysis)**
 
 ## Overview
@@ -56,9 +56,6 @@ The data was collected from a survey, gathering responses on various aspects rel
 - Analyzed responses to identify the most trusted messengers or sources of information.
 - Examined the content and messaging strategies used in communication campaigns.
 - Investigated the accessibility of information, including language barriers and ease of understanding.
-
-## Key Findings
-Our analysis has revealed valuable insights into the perceptions and vaccine uptake within [Your State]. The key findings will be provided as part of the analysis documentation. 🧐
 
 ## Usage
 The data and analysis in this repository can be used for research, policy development, and public health decision-making. Please refer to the [License](#license) section for usage guidelines. 📚
