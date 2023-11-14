@@ -2,7 +2,7 @@
 ## **View Interactive Analysis [HERE](https://africanobyamugisha.github.io/Behavioral-COVID19-Analysis)**
 
 ## Overview
-This repository contains the data and analysis of a comprehensive study aimed at understanding the factors influencing perceptions of COVID-19 and its vaccine within the population. The study delves into various aspects, including demographic correlations, trust in stakeholders, media consumption habits, personal experiences with COVID-19, vaccine hesitancy, and communication strategies. 📊
+This repository contains the data analysis of a comprehensive study aimed at understanding the factors influencing perceptions of COVID-19 and its vaccine within the population. The study delves into various aspects, including demographic correlations, trust in stakeholders, media consumption habits, personal experiences with COVID-19, vaccine hesitancy, and communication strategies. 📊
 
 ## Objective
 The primary objective of this analysis is to gain insights into the factors that contribute to perceptions of COVID-19 and the COVID-19 vaccine. Through a detailed examination of data, we aim to provide a comprehensive view of public sentiment, which can be valuable for policymakers and healthcare professionals. 🎯
@@ -57,14 +57,12 @@ The data was collected from a survey, gathering responses on various aspects rel
 - Examined the content and messaging strategies used in communication campaigns.
 - Investigated the accessibility of information, including language barriers and ease of understanding.
 
-## Usage
-The data and analysis in this repository can be used for research, policy development, and public health decision-making. Please refer to the [License](#license) section for usage guidelines. 📚
 
 ## Contributing
-We welcome contributions to this repository, including further analysis, additional data, and improvements to the documentation. If you have any suggestions or would like to contribute, please follow the guidelines outlined in the repository. 🤗
+I welcome contributions to this repository, including further analysis, additional data, and improvements. If you have any suggestions, i would like to here from you. 🤗
 
 ## License
-This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use and share the content, provided you give appropriate credit to the authors. 📜
+This project is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). You are free to use and share the content, provided you give appropriate credit. 📜
 
 ## Contact Information
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/africanobyamugisha)
