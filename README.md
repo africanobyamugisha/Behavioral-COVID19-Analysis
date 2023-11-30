@@ -2,10 +2,10 @@
 ## **View Interactive Analysis [HERE](https://africanobyamugisha.github.io/Behavioral-COVID19-Analysis)**
 
 ## Overview
-This repository contains the data analysis of a comprehensive study aimed at understanding the factors influencing perceptions of COVID-19 and its vaccine within the population. The study delves into various aspects, including demographic correlations, trust in stakeholders, media consumption habits, personal experiences with COVID-19, vaccine hesitancy, and communication strategies. 📊
+This repository contains the data visualisation of a comprehensive study aimed at understanding the factors influencing perceptions of COVID-19 and its vaccine within the population. The study delves into various aspects, including demographic correlations, trust in stakeholders, media consumption habits, personal experiences with COVID-19, vaccine hesitancy, and communication strategies. 📊
 
 ## Objective
-The primary objective of this analysis is to gain insights into the factors that contribute to perceptions of COVID-19 and the COVID-19 vaccine. Through a detailed examination of data, we aim to provide a comprehensive view of public sentiment, which can be valuable for policymakers and healthcare professionals. 🎯
+The primary objective of this analysis is to gain visual insights into the factors that contribute to perceptions of COVID-19 and the COVID-19 vaccine. Through a detailed examination of data, we aim to provide a comprehensive view of public sentiment, which can be valuable for policymakers and healthcare professionals. 🎯
 
 ## Table of Contents
 - [Tools](#tools)
